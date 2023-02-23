@@ -108,12 +108,12 @@ textarea {
     line-height: inherit;
     color: inherit;
     margin: 0;
-    padding: 0
+    padding: 0;
 }
 
 button,
 select {
-    text-transform: none
+    text-transform: none;
 }
 
 button,
@@ -1819,7 +1819,7 @@ html {
 
 .a4s .dark\:hover\:aI:hover {
     --tw-text-opacity: 1;
-    color: rgb(255 255 255/var(--tw-text-opacity))
+    color: #94CE70;
 }
 
 .a4s .dark\:hover\:aH:hover {
@@ -2599,4 +2599,8 @@ html {
     .xs\:ae\[370px\] {
         max-width: 370px
     }
+}
+
+.ethical-hov:hover {
+    color: #94CE70;
 }
