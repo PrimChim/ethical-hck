@@ -949,7 +949,7 @@ body {
 
 .a16 {
     --tw-bg-opacity: 1;
-    background-color: rgb(74 108 247/var(--tw-bg-opacity))
+    background-color: rgb(116, 191, 68);
 }
 
 .a_\[\#222C40\] {
@@ -1367,7 +1367,7 @@ body {
 
 .aH {
     --tw-text-opacity: 1;
-    color: rgb(74 108 247/var(--tw-text-opacity))
+    color: white;
 }
 
 .a1F\[\#d9d9d9\] {
@@ -1796,7 +1796,7 @@ html {
 
 .a4s .dark\:aI {
     --tw-text-opacity: 1;
-    color: rgb(255 255 255/var(--tw-text-opacity))
+    color: rgb(255 255 255/var(--tw-text-opacity));
 }
 
 .a4s .dark\:a3o {
