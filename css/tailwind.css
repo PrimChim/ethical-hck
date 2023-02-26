@@ -2608,3 +2608,7 @@ html {
 .a161 {
     background-color: #FFFFFF;
 }
+
+.team-first {
+    display: flex;
+}
