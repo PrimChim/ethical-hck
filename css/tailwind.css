@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;family=Lexend:wght@200;300;400;500;600;700;800;900&amp;display=swap";
 
 *,
+
 ::before,
 ::after {
     box-sizing: border-box;
@@ -1510,7 +1511,7 @@ html {
 
 .menu-scroll.active {
     --tw-text-opacity: 1;
-    color: rgb(74 108 247/var(--tw-text-opacity))
+    color: #94CE70;
 }
 
 .menu-wrapper {
@@ -2612,3 +2613,4 @@ html {
 .team-first {
     display: flex;
 }
+
