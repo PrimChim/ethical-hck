@@ -692,7 +692,7 @@ body {
 }
 
 .ae\[1150px\] {
-    max-width: 1150px
+    max-width: 500px;
 }
 
 .ae\[850px\] {
@@ -2613,4 +2613,3 @@ html {
 .team-first {
     display: flex;
 }
-
